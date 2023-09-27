@@ -13,7 +13,7 @@
 - The size of the maze can be choosen when running the program.  
   ![image](https://github.com/BaoAL31/MazeGenerator/assets/130630975/e8824f5f-54d6-433e-9246-cb8589114d7f)
 
-- The start and exit of the maze can be changed.
+- The start and exit of the maze can be changed.  
   ![image](https://github.com/BaoAL31/MazeGenerator/assets/130630975/1a89c092-34eb-4819-b2aa-35f3dcf87fd2)
 
 ## Libraries used:
